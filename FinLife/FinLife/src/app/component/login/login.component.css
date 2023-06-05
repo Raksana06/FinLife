@@ -1,0 +1,12 @@
+form{
+  width: 500px;
+}
+
+.container{
+  padding-inline-start: 2%;
+   padding-top: 12%;
+  }
+
+  .border {
+    border: 0px solid #dee2e6!important;
+  }

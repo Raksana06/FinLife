@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.body{
+  background-image: url(../Risk.jpg);
+  background-size: cover;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+body::-webkit-scrollbar{
+   display: none;
+   min-height: 100vh;
+  }
